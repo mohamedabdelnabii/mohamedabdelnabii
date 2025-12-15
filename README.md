@@ -37,7 +37,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🔗 TodoApp](https://github.com/mohamedabdelnabii/my_portfolio)
+| [🔗 My Portfolio](https://github.com/mohamedabdelnabii/my_portfolio) |A modern, responsive portfolio website showcasing my work as a Flutter Developer. Built with Next.js, React, TypeScript, and Framer Motion.
 | [🔗 TodoApp](https://github.com/mohamedabdelnabii/todoapp) | A simple Flutter to-do list app with local storage using SharedPreferences | Flutter, Dart |
 | [🔗 BMI Calculator](https://github.com/mohamedabdelnabii/bmi) | A clean and interactive Flutter app to calculate BMI and interpret health status | Flutter, Dart |
 | [🔗 Pottery App](https://github.com/mohamedabdelnabii/pottery_app) | An e-commerce Flutter app for browsing and managing handmade pottery products | Flutter, Dart, SharedPreferences, Firebase (planned) |
