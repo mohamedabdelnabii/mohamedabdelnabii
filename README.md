@@ -37,18 +37,19 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🔗 TodoApp](https://github.com/megomango/todoapp) | A simple Flutter to-do list app with local storage using SharedPreferences | Flutter, Dart |
-| [🔗 BMI Calculator](https://github.com/megomango/bmi) | A clean and interactive Flutter app to calculate BMI and interpret health status | Flutter, Dart |
-| [🔗 Pottery App](https://github.com/megomango/pottery_app) | An e-commerce Flutter app for browsing and managing handmade pottery products | Flutter, Dart, SharedPreferences, Firebase (planned) |
+| [🔗 TodoApp](https://github.com/mohamedabdelnabii/my_portfolio)
+| [🔗 TodoApp](https://github.com/mohamedabdelnabii/todoapp) | A simple Flutter to-do list app with local storage using SharedPreferences | Flutter, Dart |
+| [🔗 BMI Calculator](https://github.com/mohamedabdelnabii/bmi) | A clean and interactive Flutter app to calculate BMI and interpret health status | Flutter, Dart |
+| [🔗 Pottery App](https://github.com/mohamedabdelnabii/pottery_app) | An e-commerce Flutter app for browsing and managing handmade pottery products | Flutter, Dart, SharedPreferences, Firebase (planned) |
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=megomango&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedabdelnabii&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=megomango&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedabdelnabii&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
